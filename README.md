@@ -28,10 +28,11 @@ Lehel saab näha tagaotsitavaid, teisaldusi, karistus ajalugu, ordereid ja kaame
 
 ### Disain
 
-Vasakul on tume külgmenüü, kus on ikoonid ja tekst
-Keskel on heledal taustal põhisisu, kus on kirjas kasutaja nimi ja tema ametikoht
-Statistika on näidatud värviliste kaartidena – sinine, hall, kollane ja punane, mis teevad andmed kiiresti loetavaks
-Allpool on kastid teiste politseinike nimedega, igaühel ametinimetus ja väiksem arv
+<br/>Vasakul on tume külgmenüü, kus on ikoonid ja tekst
+<br/>Keskel on heledal taustal põhisisu, kus on kirjas kasutaja nimi ja tema ametikoht
+<br/>Avalehel statistika on näidatud värviliste kaartidena sinine, hall, kollane ja punane, mis teevad andmed kiiresti loetavaks
+<br/>Allpool on kastid teiste politseinike nimedega, igaühel ametinimetus
+<br/>Modernne, korras ja kasutajasõbralik disain, kus on lihtne kiiresti infot leida
 
 ### Interaktiivsed elemendid
 
