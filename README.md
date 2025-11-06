@@ -11,10 +11,10 @@ Eesmärk on, et mängusisesed politsei ja kiirabi töötajad saaksid oma tööü
 
 ## Meeskond ja tehnoloogia
 
-Remo Tammela (Main projekti arendaja)
-Eliise Kukk (Figma)
-Elijah Mälk (Figma, Koodimine)
-Jan-Martti Kiil (GitHubi Readme)
+Remo (Main projekti arendaja)
+Elijah (Figma, Koodimine)
+Eliise (Figma)
+Jan-Martti (GitHubi Readme)
 
 ### Tehnoloogia
 
