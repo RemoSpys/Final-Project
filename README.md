@@ -10,6 +10,7 @@ Uus versioon keskendub moodsa kasutuskogemuse loomisele.
 Eesmärk on, et mängusisesed politsei ja kiirabi töötajad saaksid oma tööülesandeid täita mugavamalt, kiiremini ja visuaalselt meeldivamas keskkonnas.
 
 ## Meeskond ja tehnoloogia
+
 Remo Tammela (Main projekti arendaja)
 Eliise Kukk (Figma)
 Elijah Mälk (Figma, Koodimine)
@@ -23,11 +24,14 @@ Vanilla JavaScript + CSS + HTML
 
 ### Sisu ja struktuur
 
-Lehel saab näha tagaotsitavaid, teisaldusi, karistus lugu, ordereid ja kaameraid.
+Lehel saab näha tagaotsitavaid, teisaldusi, karistus ajalugu, ordereid ja kaameraid.
 
 ### Disain
 
-Lehel on väga moderne disain
+Vasakul on tume külgmenüü, kus on ikoonid ja tekst
+Keskel on heledal taustal põhisisu, kus on kirjas kasutaja nimi ja tema ametikoht.
+Statistika on näidatud värviliste kaartidena – sinine, hall, kollane ja punane, mis teevad andmed kiiresti loetavaks
+Allpool on kastid teiste politseinike nimedega, igaühel ametinimetus ja väiksem arv
 
 ### Interaktiivsed elemendid
 
