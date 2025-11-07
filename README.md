@@ -42,16 +42,23 @@ Lehel saab näha tagaotsitavaid, teisaldusi, karistus ajalugu, ordereid ja kaame
 
 ## 05.11.2025
 
-Eliise alustas Figmas kujundamist
-Elijah alustas koodimisega
+<br/>Eliise alustas Figmas kujundamist
+<br/>Elijah alustas koodimisega
 
 ## 06.11.2025
 
-Eliise lõpetas Figma kujunduse
-Elijah kirjutas koodi edasi
-Jan hakkas kirjutama GitHubi readmed
+<br/>Eliise lõpetas Figma kujunduse
+<br/>Elijah kirjutas koodi edasi
+<br/>Jan hakkas kirjutama GitHubi readmed
 
 ## 07.11.2025
 
-Jan lõppetas GitHubi Readme kirjutamist
-Elijah lõpetas koodi
+<br/>Jan lõppetas GitHubi Readme kirjutamist
+<br/>Elijah lõpetas koodi
+
+## Mida Õppisime
+
+<br/>Elijah - veebilehele interaktiivsemaid elemente luua
+<br/>Eliina -  figmat põhjalikumalt kasutama
+<br/>Remo - kuidas paremini teisi õppetada ja aidata
+<br/>Jan - GitHubi kasutamist
