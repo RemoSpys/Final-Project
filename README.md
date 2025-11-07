@@ -40,3 +40,18 @@ Lehel saab näha tagaotsitavaid, teisaldusi, karistus ajalugu, ordereid ja kaame
 <br/>Lihtne text reveal animatsioon (nt täht korraga või slide-in)
 <br/>Väike loader / skeleton enne sisu ilmumist
 
+## 05.11.2025
+
+Eliise alustas Figmas kujundamist
+Elijah alustas koodimisega
+
+## 06.11.2025
+
+Eliise lõpetas Figma kujunduse
+Elijah kirjutas koodi edasi
+Jan hakkas kirjutama GitHubi readmed
+
+## 07.11.2025
+
+Jan lõppetas GitHubi Readme kirjutamist
+Elijah lõpetas koodi
