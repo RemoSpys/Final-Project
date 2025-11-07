@@ -1,32 +1,32 @@
 # Final-Project
 
-## Los Santos Politsei & Kiirabi MDT
+## 👮 Los Santos Politsei & Kiirabi MDT
 
-## Eesmärk
+## 🎯 Eesmärk
 
 Uuendada vananenud politsei- ja kiirabi-tahvli (MDT) süsteemi, mis on olnud muutumatuna kasutusel juba üle viie aasta
 Praegune lahendus on visuaalselt aegunud
 Uus versioon keskendub moodsa kasutuskogemuse loomisele
 Eesmärk on, et mängusisesed politsei ja kiirabi töötajad saaksid oma tööülesandeid täita mugavamalt, kiiremini ja visuaalselt meeldivamas keskkonnas
 
-## Meeskond ja tehnoloogia
+## 👨‍💻 Meeskond ja tehnoloogia
 
 <br/>Remo (Main projekti arendaja)
 <br/>Elijah (Figma, Koodimine)
 <br/>Eliise (Figma)
 <br/>Jan-Martti (GitHubi Readme)
 
-### Tehnoloogia
+### ⚙️ Tehnoloogia
 
 Vanilla JavaScript + CSS + HTML
 
-## Elemendid
+## 🌀 Elemendid
 
-### Sisu ja struktuur
+### 🧩 Sisu ja struktuur
 
 Lehel saab näha tagaotsitavaid, teisaldusi, karistus ajalugu, ordereid ja kaameraid.
 
-### Disain
+### 🎨 Disain
 
 <br/>Vasakul on tume külgmenüü, kus on ikoonid ja tekst
 <br/>Keskel on heledal taustal põhisisu, kus on kirjas kasutaja nimi ja tema ametikoht
@@ -34,9 +34,9 @@ Lehel saab näha tagaotsitavaid, teisaldusi, karistus ajalugu, ordereid ja kaame
 <br/>Allpool on kastid teiste politseinike nimedega, igaühel ametinimetus
 <br/>Modernne, korras ja kasutajasõbralik disain, kus on lihtne kiiresti infot leida
 
-### Interaktiivsed elemendid
+### 🛠️ Interaktiivsed elemendid
 
 <br/>Countdown timer
-<br/>Dark mode toggle
+<br/>Lihtne text reveal animatsioon (nt täht korraga või slide-in)
 <br/>Väike loader / skeleton enne sisu ilmumist
 
